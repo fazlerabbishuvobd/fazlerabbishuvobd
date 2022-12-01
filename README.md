@@ -1,4 +1,4 @@
-(https://media-exp1.licdn.com/dms/image/D4E16AQGlqFcTRASamw/profile-displaybackgroundimage-shrink_350_1400/0/1669915147936?e=1675296000&v=beta&t=VRbZpyE4w3Islxqa5SkTllL-3J1-sjeAnc87ge4ueAI)
+
 ### Connect With Me  
 <div align="center">
 <a href="https://github.com/https://github.com/fazlerabbi-shuvo" target="_blank">
@@ -16,7 +16,7 @@
 <br/>  
 ### Hi there 👋, I'm Fazle Rabbi
 #### I am  Mobile Application Developer from Bangladesh
-![I am  Mobile Application Developer from Bangladesh]
+![I am  Mobile Application Developer from Bangladesh](https://media-exp1.licdn.com/dms/image/D4E16AQGlqFcTRASamw/profile-displaybackgroundimage-shrink_350_1400/0/1669915147936?e=1675296000&v=beta&t=VRbZpyE4w3Islxqa5SkTllL-3J1-sjeAnc87ge4ueAI)
 
 I am hard working and self-motivated person. I can do fun with my nearest people and always stay happy. 
 I am a student of the Department of CSE at the Green University of Bangladesh. This Year ( 2022 ) my BSC in CSE degree will be completed. 
