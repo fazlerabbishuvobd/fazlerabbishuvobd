@@ -26,7 +26,28 @@ In my childhood, my dream was to make mobile applications that's why I decided t
 ### Language 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,c++,python,java,dart,javascript,bashcript"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,dart,javascript,bash"/>
+  </a>
+</p>
+
+### Backend 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,firebase,"/>
+  </a>
+</p>
+
+### Tools & IDE
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,netbeans,codeblocks,xmapp,pycharm"/>
+  </a>
+</p>
+
+### Operating System
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=android,windows,linux"/>
   </a>
 </p>
 
