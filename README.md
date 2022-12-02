@@ -23,6 +23,13 @@ I am a student of the Department of CSE at the Green University of Bangladesh. T
 So, It's time to do work for my family with my skill. In my all university course, I love mobile application development course.
 In my childhood, my dream was to make mobile applications that's why I decided to build my career as a Mobile Application Developer from my own interest.
 
+### Language 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,c++,python,java,dart,javascript,bashcript"/>
+  </a>
+</p>
+
 Skills: FLUTTER/ DART /JAVA / PYTHON / C/C++/FIREBASE/SQFLITE/MYSQL
 
 - 🔭 I’m currently working on this page. 
