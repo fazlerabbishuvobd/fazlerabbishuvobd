@@ -40,7 +40,7 @@ In my childhood, my dream was to make mobile applications that's why I decided t
 ### Tools & IDE
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,netbeans,codeblocks,xmapp,pycharm"/>
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,eclipse"/>
   </a>
 </p>
 
