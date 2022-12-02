@@ -37,6 +37,13 @@ In my childhood, my dream was to make mobile applications that's why I decided t
   </a>
 </p>
 
+### Frame Work
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter"/>
+  </a>
+</p>
+
 ### Tools & IDE
 <p align="center">
   <a href="https://skillicons.dev">
@@ -44,7 +51,7 @@ In my childhood, my dream was to make mobile applications that's why I decided t
   </a>
 </p>
 
-### Operating System
+### Other Operating System
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=android,windows,linux"/>
