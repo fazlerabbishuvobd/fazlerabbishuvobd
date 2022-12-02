@@ -30,12 +30,8 @@ Skills: FLUTTER/ DART /JAVA / PYTHON / C/C++/FIREBASE/SQFLITE/MYSQL
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Mobile Application Development 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fazlerabbi-shuvo) 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=fazlerabbi-shuvo)  
 ![Profile views](https://gpvc.arturio.dev/fazlerabbi-shuvo)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fazlerabbi-shuvo)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=fazlerabbi-shuvo) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fazlerabbi-shuvo)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fazlerabbi-shuvo&show_icons=true)  
 
