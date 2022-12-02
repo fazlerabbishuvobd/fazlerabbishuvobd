@@ -54,7 +54,7 @@ In my childhood, my dream was to make mobile applications that's why I decided t
 ### Other Operating System
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=android,windows,linux"/>
+    <img src="https://skillicons.dev/icons?i=linux"/>
   </a>
 </p>
 
@@ -66,7 +66,7 @@ Skills: FLUTTER/ DART /JAVA / PYTHON / C/C++/FIREBASE/SQFLITE/MYSQL
 - 💬 Ask me about Mobile Application Development 
 
 ![Profile views](https://gpvc.arturio.dev/fazlerabbi-shuvo)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fazlerabbi-shuvo)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fazlerabbi-shuvo&theme=tokyonight)(https://github.com/anuraghazra/github-readme-stats)
 ![Fazle Rabbi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazlerabbi-shuvo&show_icons=true&theme=transparent)[![GitHub Streak](https://streak-stats.demolab.com/?user=fazlerabbi-shuvo&theme=highcontrast)](https://git.io/streak-stats) 
 
 ![GitHub metrics](https://metrics.lecoq.io/fazlerabbi-shuvo)  
