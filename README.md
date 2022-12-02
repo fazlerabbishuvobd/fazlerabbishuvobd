@@ -32,7 +32,7 @@ Skills: FLUTTER/ DART /JAVA / PYTHON / C/C++/FIREBASE/SQFLITE/MYSQL
 
 ![Profile views](https://gpvc.arturio.dev/fazlerabbi-shuvo)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fazlerabbi-shuvo)](https://github.com/anuraghazra/github-readme-stats)
-![Fazle Rabbi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazlerabbi-shuvo&show_icons=true&theme=radical)[![GitHub Streak](https://streak-stats.demolab.com/?user=fazlerabbi-shuvo&theme=dark)](https://git.io/streak-stats) 
+![Fazle Rabbi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazlerabbi-shuvo&show_icons=true&theme=transparent)[![GitHub Streak](https://streak-stats.demolab.com/?user=fazlerabbi-shuvo&theme=dark)](https://git.io/streak-stats) 
 
 ![GitHub metrics](https://metrics.lecoq.io/fazlerabbi-shuvo)  
 [![fazlerabbi's github activity graph](https://activity-graph.herokuapp.com/graph?username=fazlerabbi-shuvo&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
