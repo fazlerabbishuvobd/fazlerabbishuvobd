@@ -1,4 +1,4 @@
-![I am  Mobile Application Developer from Bangladesh](https://media-exp1.licdn.com/dms/image/D4E16AQGlqFcTRASamw/profile-displaybackgroundimage-shrink_350_1400/0/1669915147936?e=1675296000&v=beta&t=VRbZpyE4w3Islxqa5SkTllL-3J1-sjeAnc87ge4ueAI)
+![Banner_Fazlerabbi](https://github.com/fazlerabbishuvobd/fazlerabbi-shuvo/assets/118497272/a1a4fdbe-e2cc-4f37-a5d3-5aab84ca1221)
 <br>
 
 ### Connect With Me  
@@ -15,13 +15,23 @@
 </div>  
 <br/>  
 
-### Hi there 👋, I'm Fazle Rabbi
-#### I am  Mobile Application Developer from Bangladesh
+### Greetings!
+I'm <b>Fazle Rabbi</b> <br>
+Mobile Application Developer (Flutter)
 
-I am hard working and self-motivated person. I can do fun with my nearest people and always stay happy. 
-I am a student of the Department of CSE at the Green University of Bangladesh. This Year ( 2022 ) my BSC in CSE degree will be completed. 
-So, It's time to do work for my family with my skill. In my all university course, I love mobile application development course.
-In my childhood, my dream was to make mobile applications that's why I decided to build my career as a Mobile Application Developer from my own interest.
+<div style="text-align: justify"> 
+Welcome to my GitHub profile. 
+I am a passionate Mobile Application Developer. I recently completed my B.Sc. in Computer Science and Engineering from Green University of Bangladesh, where I gained a solid foundation in software development and mobile app creation.
+
+Throughout my academic journey, I have focused on honing my skills in mobile application development, leveraging modern technologies and frameworks to create intuitive and engaging user experiences. I have a keen interest in building robust and scalable mobile applications that solve real-world problems and enhance people's lives.
+
+My GitHub repositories serve as a showcase of my work, where I actively share my projects, experiments, and contributions to the open-source community. I believe in the power of collaboration and enjoy working with others to create innovative solutions. I am always eager to learn and explore new technologies and tools to stay up-to-date with the rapidly evolving mobile app landscape.
+
+In addition to my technical skills, I prioritize clean and maintainable code, adhering to best practices and industry standards. I am well-versed in various programming languages, including C,C++,Java,Python,Dart and proficient in popular mobile app development frameworks Flutter.
+
+I am excited to connect with fellow developers, collaborate on interesting projects, and contribute to the vibrant GitHub community. Feel free to explore my repositories and don't hesitate to reach out if you have any questions, suggestions, or potential collaboration opportunities. Let's build amazing mobile applications together!
+</div>
+
 
 ### Language 
 <p align="center">
@@ -58,18 +68,20 @@ In my childhood, my dream was to make mobile applications that's why I decided t
   </a>
 </p>
 
-Skills: FLUTTER/DART/JAVA/PYTHON/C/C++/FIREBASE/SQFLITE/MYSQL
+<br><br>
+
+#### Skills: FLUTTER/DART/JAVA/PYTHON/C/C++/FIREBASE/SQFLITE/MYSQL
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Flutter 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Mobile Application Development 
 
-![Profile views](https://gpvc.arturio.dev/fazlerabbi-shuvo)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fazlerabbi-shuvo&theme=tokyonight)
-![Fazle Rabbi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazlerabbi-shuvo&show_icons=true&theme=transparent)[![GitHub Streak](https://streak-stats.demolab.com/?user=fazlerabbi-shuvo&theme=highcontrast)](https://git.io/streak-stats) 
+<br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fazlerabbishuvobd&theme=tokyonight)<br> 
+![Fazle Rabbi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazlerabbishuvobd&show_icons=true&theme=transparent)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=fazlerabbishuvobd&theme=highcontrast)](https://git.io/streak-stats) <br>
+![GitHub metrics](https://metrics.lecoq.io/fazlerabbishuvobd) <br>
 
-![GitHub metrics](https://metrics.lecoq.io/fazlerabbi-shuvo)  
-[![fazlerabbi's github activity graph](https://activity-graph.herokuapp.com/graph?username=fazlerabbi-shuvo&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   
