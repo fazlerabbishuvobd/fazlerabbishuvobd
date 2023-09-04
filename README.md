@@ -21,15 +21,7 @@ Mobile Application Developer (Flutter)
 
 <div style="text-align: justify"> 
 Welcome to my GitHub profile. 
-I am a passionate Mobile Application Developer. I recently completed my B.Sc. in Computer Science and Engineering from Green University of Bangladesh, where I gained a solid foundation in software development and mobile app creation.
-
-Throughout my academic journey, I have focused on honing my skills in mobile application development, leveraging modern technologies and frameworks to create intuitive and engaging user experiences. I have a keen interest in building robust and scalable mobile applications that solve real-world problems and enhance people's lives.
-
-My GitHub repositories serve as a showcase of my work, where I actively share my projects, experiments, and contributions to the open-source community. I believe in the power of collaboration and enjoy working with others to create innovative solutions. I am always eager to learn and explore new technologies and tools to stay up-to-date with the rapidly evolving mobile app landscape.
-
-In addition to my technical skills, I prioritize clean and maintainable code, adhering to best practices and industry standards. I am well-versed in various programming languages, including C,C++,Java,Python,Dart and proficient in popular mobile app development frameworks Flutter.
-
-I am excited to connect with fellow developers, collaborate on interesting projects, and contribute to the vibrant GitHub community. Feel free to explore my repositories and don't hesitate to reach out if you have any questions, suggestions, or potential collaboration opportunities. Let's build amazing mobile applications together!
+I am a passionate Flutter Developer. Proficient in Dart, Java, OOP, RESTful APIs, and state management with Provider, GetX, and Bloc. Experienced in Firebase, Push Notifications, AdMob, and Google Maps integration. Committed to clean, efficient code and UI excellence.
 </div>
 
 
