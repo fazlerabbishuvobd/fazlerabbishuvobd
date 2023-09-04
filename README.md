@@ -19,34 +19,130 @@
 I'm <b>Fazle Rabbi</b> <br>
 Mobile Application Developer (Flutter)
 
-<div style="text-align: justify"> 
-Welcome to my GitHub profile. 
-I am a passionate Flutter Developer. Proficient in Dart, Java, OOP, RESTful APIs, and state management with Provider, GetX, and Bloc. Experienced in Firebase, Push Notifications, AdMob, and Google Maps integration. Committed to clean, efficient code and UI excellence. I have knowledge in MVC, MVVM, e-commerce apps, payment gateway Integration, app publishing, and troubleshooting. Eager learner dedicated to top-quality work.
-</div>
+Welcome to my GitHub profile. I am a passionate Flutter Developer. Proficient in Dart, Java, OOP, RESTful APIs, and state management with Provider, GetX, and Bloc. Experienced in Firebase, Push Notifications, AdMob, and Google Maps integration. Committed to clean, efficient code and UI excellence. I have knowledge in MVC, MVVM, e-commerce apps, payment gateway Integration, app publishing, and troubleshooting. Eager learner dedicated to top-quality work.
 
-#### Skills: FLUTTER/DART/JAVA/PYTHON/C/C++/FIREBASE/SQFLITE/MYSQL
+<br>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,dart"/>
-  </a>
- <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,firebase,"/>
-  </a>
- <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter"/>
-  </a>
- <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,eclipse"/>
-  </a>
-</p>
+## Expertise
+<table align="center">
+        <tr>
+            <td>📝 Dart and Java Programming</td>
+            <td>🚀 State Management (Provider, GetX, Bloc)</td>
+        </tr>
+        <tr>
+            <td>🌐 RESTful API Integration</td>
+            <td>💾 Local Database Handling (SQFLite, Hive)</td>
+        </tr>
+        <tr>
+            <td>🔥 Firebase Integration</td>
+            <td>📬 Push Notifications</td>
+        </tr>
+        <tr>
+            <td>💰 AdMob Integration</td>
+            <td>🗺️ Google Maps Integration</td>
+        </tr>
+        <tr>
+            <td>📑 Version Control with Git</td>
+            <td>🛠️ IDEs: Visual Studio Code and Android Studio</td>
+        </tr>
+        <tr>
+            <td>📱 Responsive UI Development</td>
+            <td>🏛️ MVC and MVVM Architectures</td>
+        </tr>
+        <tr>
+            <td>🛒 E-commerce App Development</td>
+            <td>💳 Payment Gateway Integration</td>
+        </tr>
+        <tr>
+            <td>🚀 App Publishing</td>
+            <td></td>
+        </tr>
+    </table>
+
+<br>
+
+## Language - Framework - Tools
+ 
+ <table>
+    <tr>
+      <th>Language</th>
+      <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=c,cpp,python,java,dart"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <th>Backend</th>
+      <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=mysql,firebase"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <th>Framework</th>
+      <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=flutter"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <th>IDE</th>
+      <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=androidstudio,vscode,eclipse"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+
+
 
 <br><br>
 <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fazlerabbishuvobd&theme=tokyonight)<br> 
 ![Fazle Rabbi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazlerabbishuvobd&show_icons=true&theme=transparent)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=fazlerabbishuvobd&theme=highcontrast)](https://git.io/streak-stats) <br>
-![GitHub metrics](https://metrics.lecoq.io/fazlerabbishuvobd)
+![GitHub metrics](https://metrics.lecoq.io/?user=fazlerabbishuvobd)
+
+<br><br>
+<br><br>
+
+<table>
+ <th>SKILL</th>
+    <tr>
+      <td>
+        <table align="center">
+        <tr>
+            <td>📝 Dart and Java Programming</td>
+            <td>🚀 State Management (Provider, GetX, Bloc)</td>
+        </tr>
+        <tr>
+            <td>🌐 RESTful API Integration</td>
+            <td>💾 Local Database Handling (SQFLite, Hive)</td>
+        </tr>
+        <tr>
+            <td>🚀 App Publishing</td>
+            <td></td>
+        </tr>
+    </table>
+      </td>
+      <td>
+        <table align="center">
+        <tr>
+            <td>📝 Dart and Java Programming</td>
+            <td>🚀 State Management (Provider, GetX, Bloc)</td>
+        </tr>
+        <tr>
+            <td>🚀 App Publishing</td>
+            <td></td>
+        </tr>
+    </table>
+      </td>
+    </tr>
+  </table>
 
 
 
