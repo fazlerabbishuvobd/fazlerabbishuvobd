@@ -21,8 +21,6 @@ Mobile Application Developer (Flutter)
 
 Welcome to my GitHub profile. I am a passionate Flutter Developer. Proficient in Dart, Java, OOP, RESTful APIs, and state management with Provider, GetX, and Bloc. Experienced in Firebase, Push Notifications, AdMob, and Google Maps integration. Committed to clean, efficient code and UI excellence. I have knowledge in MVC, MVVM, e-commerce apps, payment gateway Integration, app publishing, and troubleshooting. Eager learner dedicated to top-quality work.
 
-<br>
-
 ## Expertise
 <table align="center">
         <tr>
@@ -59,11 +57,9 @@ Welcome to my GitHub profile. I am a passionate Flutter Developer. Proficient in
         </tr>
     </table>
 
-<br>
-
 ## Language - Framework - Tools
  
- <table>
+ <table align="right">
     <tr>
       <th>Language</th>
       <td>
@@ -98,14 +94,11 @@ Welcome to my GitHub profile. I am a passionate Flutter Developer. Proficient in
     </tr>
   </table>
 
+<be>
 
-
-<br><br>
-<br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fazlerabbishuvobd&theme=tokyonight)<br> 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fazlerabbishuvobd&theme=tokyonight)<br><br> 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=fazlerabbishuvobd&theme=highcontrast)](https://git.io/streak-stats)
 ![Fazle Rabbi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazlerabbishuvobd&show_icons=true&theme=transparent)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=fazlerabbishuvobd&theme=highcontrast)](https://git.io/streak-stats) <br>
-![GitHub metrics](https://metrics.lecoq.io/?user=fazlerabbishuvobd)
 
 <br><br>
 <br><br>
