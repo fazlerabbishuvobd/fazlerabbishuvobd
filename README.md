@@ -97,8 +97,8 @@ Welcome to my GitHub profile. I am a passionate Flutter Developer. Proficient in
 <be>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fazlerabbishuvobd&theme=tokyonight)<br><br> 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=fazlerabbishuvobd&theme=highcontrast)](https://git.io/streak-stats)
 ![Fazle Rabbi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazlerabbishuvobd&show_icons=true&theme=transparent)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=fazlerabbishuvobd&theme=highcontrast)](https://git.io/streak-stats)
 
 <br><br>
 <br><br>
