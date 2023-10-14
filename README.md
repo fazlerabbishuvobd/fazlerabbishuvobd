@@ -1,5 +1,6 @@
-![Banner_Fazlerabbi](https://github.com/fazlerabbishuvobd/fazlerabbi-shuvo/assets/118497272/a1a4fdbe-e2cc-4f37-a5d3-5aab84ca1221)
+![fazlerabbi_linkedin_cover](https://github.com/fazlerabbishuvobd/fazlerabbishuvobd/assets/118497272/b991763a-cdc7-43ff-a84d-6e94eae04cc8)
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fazlerabbishuvobd&label=Profile%20views&color=0e75b6&style=flat" alt="fazlerabbishuvobd" /> </p>
 
 ### Connect With Me  
 <div align="center">
