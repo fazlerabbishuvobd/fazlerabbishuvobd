@@ -16,7 +16,6 @@
 </div>  
 <br/>  
 
-### Greetings!
 I'm <b>Fazle Rabbi</b> <br>
 Mobile Application Developer (Flutter)
 
