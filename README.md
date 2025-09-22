@@ -99,7 +99,10 @@ I am committed to continuous learning and delivering top-notch code quality in a
 
 ## GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazlerabbishuvobd&theme=tokyonight" alt="Top Langs" /><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=fazlerabbishuvobd&show_icons=true&theme=transparent" alt="GitHub Stats" /><br><br>
-  <img src="https://streak-stats.demolab.com/?user=fazlerabbishuvobd&theme=highcontrast" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fazlerabbishuvobd&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazlerabbishuvobd&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
 </div>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=fazlerabbishuvobd&theme=tokyonight&hide_border=true" height="180px"/>
+</p>
