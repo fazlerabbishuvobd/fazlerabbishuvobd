@@ -48,14 +48,13 @@ Hello! I'm **Fazle Rabbi**, a passionate **Mobile Application Developer** specia
   </tr>
   <tr>
     <td>📱 Responsive UI Design</td>
-    <td>🛒 E-commerce App Development</td>
-  </tr>
-  <tr>
-    <td>📲 App Store & Play Store Deployment</td>
     <td>🛠️ Tools: Git, GitHub, Jira, Postman</td>
   </tr>
   <tr>
+    <td>📲 App Store & Play Store Deployment</td>
     <td>🤝 Technical Leadership</td>
+  </tr>
+  <tr>
     <td>🔄 Agile & Code Review</td>
   </tr>
 </table>
