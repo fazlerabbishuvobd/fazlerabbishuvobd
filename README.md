@@ -66,7 +66,7 @@ Hello! I'm **Fazle Rabbi**, a passionate **Mobile Application Developer** specia
     <td><strong>Languages</strong></td>
     <td>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cpp,python,java,dart" alt="Languages"/>
+        <img src="https://skillicons.dev/icons?i=dart,kotlin" alt="Languages"/>
       </a>
     </td>
   </tr>
@@ -74,7 +74,7 @@ Hello! I'm **Fazle Rabbi**, a passionate **Mobile Application Developer** specia
     <td><strong>Backend</strong></td>
     <td>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mysql,firebase" alt="Backend"/>
+        <img src="https://skillicons.dev/icons?i=firebase,nodejs,dotnet" alt="Backend"/>
       </a>
     </td>
   </tr>
