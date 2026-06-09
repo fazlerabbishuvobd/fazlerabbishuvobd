@@ -100,10 +100,10 @@ Hello! I'm **Fazle Rabbi**, a passionate **Mobile Application Developer** specia
 
 ## GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fazlerabbishuvobd&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazlerabbishuvobd&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
+   <img src="https://streak-stats.demolab.com?user=fazlerabbishuvobd&theme=tokyonight&hide_border=true" height="160px"/>
 </div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=fazlerabbishuvobd&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://readme-stats-github.pages.dev/api?username=fazlerabbishuvobd&theme=dark" height="160px"/>
+  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=fazlerabbishuvobd&theme=dark" height="160px"/>
 </p>
