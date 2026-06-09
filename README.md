@@ -16,48 +16,50 @@
 </p>
 
 ## About Me
-Hello! I'm **Fazle Rabbi**, a passionate **Mobile Application Developer** specializing in Flutter. I bring a solid foundation in:
-- Dart, Java, and Object-Oriented Programming
-- State Management with Provider, GetX, and Bloc
-- Firebase Integration, Push Notifications, and Google Maps
-- UI/UX Development focused on responsive and optimized interfaces
-- E-commerce, payment gateways, and app publishing
-
-I am committed to continuous learning and delivering top-notch code quality in all my projects.
+Hello! I'm **Fazle Rabbi**, a passionate **Mobile Application Developer** specializing in Flutter. I am committed to continuous learning and delivering top-notch code quality in all my projects
 
 ---
 
 ## My Expertise
 <table align="center">
   <tr>
-    <td>📝 Dart & Java Programming</td>
-    <td>🚀 State Management (Provider, GetX, Bloc)</td>
+    <td>📝 Dart & Kotlin Programming</td>
+    <td>🚀 State Management (BLoC, GetX, Provider)</td>
+  </tr>
+  <tr>
+     <td>🏛️ Clean Architecture, MVVM, MVC</td>
+    <td>💾 Local Databases (SQFLite, Hive, Isar)</td>
   </tr>
   <tr>
     <td>🌐 RESTful APIs</td>
-    <td>💾 Local Databases (SQFLite, Hive)</td>
-  </tr>
-  <tr>
     <td>🔥 Firebase Integration</td>
+  </tr>
+  <tr>
     <td>📬 Push Notifications</td>
+    <td>💳 Payment Gateway Integration</td>
   </tr>
   <tr>
-    <td>💰 AdMob Integration</td>
     <td>🗺️ Google Maps</td>
+    <td>📹 Video Calling SDK Integration</td>
   </tr>
   <tr>
-    <td>📑 Git Version Control</td>
-    <td>🛠️ IDEs: VS Code & Android Studio</td>
+    <td>🧭 Navigation (GoRouter, Deep Linking)</td>
+   <td>💰 AdMob Integration</td>
   </tr>
   <tr>
     <td>📱 Responsive UI Design</td>
-    <td>🏛️ MVC & MVVM Architectures</td>
+    <td>🛒 E-commerce App Development</td>
   </tr>
   <tr>
-    <td>🛒 E-commerce App Dev</td>
-    <td>💳 Payment Gateway Integration</td>
+    <td>📲 App Store & Play Store Deployment</td>
+    <td>🛠️ Tools: Git, GitHub, Jira, Postman</td>
+  </tr>
+  <tr>
+    <td>🤝 Technical Leadership</td>
+    <td>🔄 Agile & Code Review</td>
   </tr>
 </table>
+
 
 ## Languages & Tools
 <table align="center">
