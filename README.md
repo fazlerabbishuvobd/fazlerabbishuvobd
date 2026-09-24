@@ -1,18 +1,12 @@
-<!-- ============================================================ -->
-<!--                          HEADER                              -->
-<!-- ============================================================ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:02569B&height=220&section=header&text=Fazle%20Rabbi&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Senior%20Flutter%20Developer%20%7C%20Mobile%20Application%20Engineer&descSize=18&descAlignY=60&animation=fadeIn" alt="Fazle Rabbi banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:02569B&height=220&section=header&text=Fazle%20Rabbi&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Mobile%20Application%20Developer%20&descSize=18&descAlignY=60&animation=fadeIn" alt="Fazle Rabbi banner" width="100%" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fazlerabbishuvobd&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 # Hi, I'm Fazle Rabbi 👋
-
-### Senior Flutter Developer | Mobile Application Engineer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=0E75B6&center=true&vCenter=true&width=700&lines=3%2B+Years+of+Professional+Flutter+Experience;Scalable+Android+%26+iOS+Applications;Clean+Architecture+%7C+BLoC+%7C+Riverpod+%7C+Firebase;Production+Releases+on+Google+Play+%26+App+Store" alt="Typing animation" />
 
@@ -25,8 +19,6 @@
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" />
 
 <br/><br/>
-
-**[About](#about-me)** &nbsp;•&nbsp; **[Snapshot](#professional-snapshot)** &nbsp;•&nbsp; **[Workflow](#engineering-workflow)** &nbsp;•&nbsp; **[Expertise](#technical-expertise)** &nbsp;•&nbsp; **[Tools](#languages--tools)** &nbsp;•&nbsp; **[Strengths](#core-strengths)** &nbsp;•&nbsp; **[Stats](#github-statistics)** &nbsp;•&nbsp; **[Focus](#current-focus)** &nbsp;•&nbsp; **[Connect](#connect-with-me)**
 
 </div>
 
@@ -42,35 +34,16 @@ I am committed to continuous learning, writing maintainable code, improving appl
 
 ---
 
-## Professional Snapshot
-
-<div align="center">
-
-| | |
-|:--|:--|
-| **Role** | Senior Flutter Developer &#124; Mobile Application Engineer |
-| **Experience** | 3+ years of professional Flutter development |
-| **Platforms** | Android and iOS |
-| **Core Stack** | Flutter · Dart · Firebase · REST APIs |
-| **Architecture** | Clean Architecture · MVVM · Feature-based structure |
-| **State Management** | BLoC / Cubit · Riverpod · GetX · Provider |
-| **Delivery** | Google Play Store · Apple App Store · CI/CD |
-| **Ways of Working** | Agile / Scrum · Code reviews · Mentoring |
-
-</div>
-
----
-
 ## Connect With Me
 
 <p align="left">
   <a href="https://bd.linkedin.com/in/fazlerabbishuvobd" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/fazlerabbi-shuvo" target="_blank">
+  <a href="https://github.com/fazlerabbishuvobd" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.facebook.com/fazlerabbishuvo.bd" target="_blank">
+  <a href="https://www.facebook.com/fazlerabbishuvoo" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
@@ -90,21 +63,6 @@ I am committed to continuous learning, writing maintainable code, improving appl
 
 ---
 
-## Engineering Workflow
-
-```mermaid
-flowchart LR
-    A[Requirement Analysis] --> B[Architecture & Design]
-    B --> C[Flutter Development]
-    C --> D[Testing & Code Review]
-    D --> E[CI/CD Pipeline]
-    E --> F[Play Store / App Store]
-    F --> G[Monitoring & Iteration]
-    G -.-> A
-```
-
----
-
 ## Technical Expertise
 
 <table>
@@ -116,9 +74,6 @@ flowchart LR
 - Flutter and Dart
 - Android and iOS application development
 - Responsive and adaptive UI design
-- Material Design and Cupertino widgets
-- Custom UI components and animations
-- Accessibility and localization
 - Deep linking and universal links
 - Push notifications
 - Google Maps integration
@@ -136,14 +91,11 @@ flowchart LR
 - MVVM and MVC
 - Feature-based project structure
 - Repository pattern
-- Dependency injection
 - BLoC and Cubit
 - Riverpod
 - GetX
 - Provider
 - SOLID principles
-- Design patterns
-- Separation of concerns
 
 </td>
   </tr>
@@ -152,20 +104,12 @@ flowchart LR
 
 ### Modern Flutter Development
 
-- Dart null safety
-- Dart 3 features
 - Flutter performance optimization
 - Flutter DevTools
 - Widget lifecycle management
 - Isolates and background processing
 - Streams and asynchronous programming
-- Form validation and complex user flows
 - Offline-first application development
-- Pagination and infinite scrolling
-- Caching and retry mechanisms
-- Error handling and logging
-- Environment configuration and build flavors
-- Reusable design systems and component libraries
 
 </td>
     <td width="50%" valign="top">
@@ -173,20 +117,14 @@ flowchart LR
 ### API and Backend Integration
 
 - RESTful API integration
-- JSON serialization and deserialization
 - Dio and HTTP clients
-- API authentication and token management
-- Interceptors and request handling
-- Multipart file upload
 - WebSockets and real-time communication
-- GraphQL fundamentals
 - Firebase Authentication
 - Cloud Firestore
-- Firebase Storage
 - Firebase Cloud Messaging
+- Push Notifications
 - Firebase Crashlytics
 - Firebase Analytics
-- Firebase Remote Config
 
 </td>
   </tr>
@@ -195,11 +133,9 @@ flowchart LR
 
 ### Local Database and Storage
 
-- SQLite and SQFLite
+- SQFLite
 - Hive
 - Isar
-- SharedPreferences
-- Secure Storage
 - Offline data synchronization
 - Local caching strategies
 
@@ -210,11 +146,7 @@ flowchart LR
 
 - Unit testing
 - Widget testing
-- Integration testing
-- BLoC and state-management testing
-- Mocking and test-driven development fundamentals
 - Code quality analysis
-- Debugging and performance profiling
 - Crash monitoring and issue tracking
 
 </td>
@@ -227,14 +159,8 @@ flowchart LR
 - Git and GitHub
 - GitHub Actions
 - CI/CD pipelines
-- Fastlane fundamentals
-- Android signing and release configuration
-- iOS certificates and provisioning profiles
 - Google Play Console
 - App Store Connect
-- Staging and production environments
-- Semantic versioning
-- Release management
 
 </td>
     <td width="50%" valign="top">
@@ -243,10 +169,8 @@ flowchart LR
 
 - Agile and Scrum methodologies
 - Jira and task management
-- Technical documentation
 - Code review and mentoring
 - Team collaboration
-- Requirement analysis
 - Problem solving
 - Technical leadership
 
