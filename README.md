@@ -1,178 +1,207 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:02569B&height=220&section=header&text=Fazle%20Rabbi&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Mobile%20Application%20Developer%20&descSize=18&descAlignY=60&animation=fadeIn" alt="Fazle Rabbi banner" width="100%" />
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,45:123B66,100:0E75B6&height=165&section=header&text=FAZLE%20RABBI&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=MOBILE%20APP%20DEVELOPER&descSize=15&descAlignY=60&descColor=B9DDFB&animation=fadeIn"
+  width="100%"
+  alt="Fazle Rabbi | Flutter Engineer"
+/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fazlerabbishuvobd&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=fazlerabbishuvobd&label=PROFILE%20VIEWS&color=0E75B6&style=flat" alt="Profile views" />
 
 # Hi, I'm Fazle Rabbi 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=0E75B6&center=true&vCenter=true&width=700&lines=3%2B+Years+of+Professional+Flutter+Experience;Scalable+Android+%26+iOS+Applications;Clean+Architecture+%7C+BLoC+%7C+Riverpod+%7C+Firebase;Production+Releases+on+Google+Play+%26+App+Store" alt="Typing animation" />
+### Flutter Engineer | 3+ Years of Professional Experience
 
-<br/>
+Building scalable, maintainable, and high-performance mobile applications for Android and iOS.
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-<!-- <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /> -->
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" />
-
-<br/><br/>
+<a href="https://bd.linkedin.com/in/fazlerabbishuvobd">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/fazlerabbishuvobd">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.facebook.com/fazlerabbishuvoo">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
 
 </div>
 
 ---
 
-## Professional Summary
+## 👨‍💻 About Me
 
-I am a passionate **Flutter Developer with 3+ years of experience** building scalable, high-performance, and user-focused mobile applications for Android and iOS.
+I'm a **Flutter Engineer with 3+ years of professional experience** developing cross-platform mobile applications with a focus on scalable architecture, clean code, performance, and user experience.
 
-I specialize in developing production-ready applications using **Flutter, Dart, modern architectural patterns, state management solutions, RESTful APIs, Firebase, third-party SDKs, and clean coding practices**.
+I specialize in building production-ready applications using Flutter and Dart, integrating backend services, implementing reliable state management, and designing maintainable application architectures.
 
-I am committed to continuous learning, writing maintainable code, improving application performance, and delivering high-quality digital products.
+I also leverage **AI-powered coding assistants and agentic development tools** to accelerate implementation, explore codebases, debug issues, refactor code, and streamline testing while maintaining engineering standards.
 
----
-
-## Connect With Me
-
-<p align="left">
-  <a href="https://bd.linkedin.com/in/fazlerabbishuvobd" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/fazlerabbishuvobd" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.facebook.com/fazlerabbishuvoo" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-</p>
+- 📱 Developing cross-platform applications with Flutter and Dart
+- 🏗️ Designing scalable architectures using Clean Architecture and MVVM
+- 🔄 Managing application state with BLoC, Cubit, GetX, and Riverpod
+- 🔌 Integrating REST APIs, Firebase, and third-party services
+- 💾 Implementing local persistence, caching, and offline data workflows
+- 🤖 Using AI coding agents for implementation, debugging, and refactoring
+- 🧪 Improving application reliability through testing and performance profiling
+- 🚀 Preparing and managing production releases for Android and iOS
 
 ---
 
-## About Me
+## 🛠️ Technical Skills
 
-- 📱 Developing cross-platform mobile applications with Flutter
-- 🏗️ Applying Clean Architecture, MVVM, and scalable project structures
-- ⚡ Building responsive, accessible, and high-performance user interfaces
-- 🔌 Integrating RESTful APIs, Firebase, payment gateways, maps, and third-party SDKs
-- 🧪 Writing testable and maintainable code using modern testing practices
-- 🚀 Managing application deployment to Google Play Store and Apple App Store
-- 🤝 Collaborating with teams through Agile development, code reviews, and technical discussions
-- 📚 Continuously learning modern tools, technologies, and best practices
+### Core Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift&theme=dark" alt="Flutter, Dart, Kotlin, and Swift" />
+
+</div>
+
+- **Framework:** Flutter
+- **Programming Language:** Dart
+- **Platforms:** Android and iOS
+- **UI Engineering:** Responsive layouts, reusable widgets, custom UI, and adaptive interfaces
+- **Platform Integration:** Native plugins, permissions, deep links, and push notifications
+
+### 🏗️ Architecture & State Management
+
+- Clean Architecture
+- MVVM and MVC
+- Feature-based architecture
+- Repository pattern
+- Dependency injection
+- SOLID principles
+- BLoC and Cubit
+- GetX, Riverpod, and Provider
+
+### 🔌 API & Backend Integration
+
+- RESTful API integration
+- Dio and HTTP clients
+- JSON serialization and data mapping
+- API error handling and authentication flows
+- Firebase Authentication
+- Cloud Firestore
+- Firebase Cloud Messaging (FCM)
+- Firebase Crashlytics and Analytics
+- WebSockets and real-time communication
+
+### 💾 Database & Local Storage
+
+- SQLite / SQFlite
+- Hive and Isar
+- SharedPreferences
+- Secure local storage
+- Local caching strategies
+- Offline-first application workflows
+- Data synchronization
+
+### 🤖 AI-Assisted Development & Agentic Coding
+
+Using AI-powered development tools to improve implementation speed, codebase understanding, debugging, and engineering productivity.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/OpenAI-Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+<img src="https://img.shields.io/badge/Google-Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" />
+<img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+
+</div>
+
+- **AI Coding Agents:** OpenAI Codex, Claude Code, and Google Antigravity
+- **AI-Assisted Problem Solving:** ChatGPT for technical analysis, implementation planning, and debugging
+- **Agentic Workflows:** Codebase exploration, multi-step coding tasks, and iterative implementation
+- **Flutter Development:** UI implementation, widget refactoring, state management, and API integration
+- **Code Quality:** Test generation, bug investigation, code review, and documentation
+- **Engineering Oversight:** Reviewing AI-generated changes, validating behavior, and preserving architectural consistency
+
+### ⚡ Performance, Testing & Quality
+
+- Flutter DevTools and performance profiling
+- Widget lifecycle and rendering optimization
+- Asynchronous programming with Futures and Streams
+- Unit testing and widget testing
+- Debugging and crash analysis
+- Memory and resource optimization
+- Code quality and maintainability
+
+### 🚀 Tools, DevOps & Release Management
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github,firebase,postman,githubactions&theme=dark" alt="Development and DevOps tools" />
+
+</div>
+
+- Git and GitHub
+- GitHub Actions and CI/CD fundamentals
+- Firebase App Distribution
+- Google Play Console
+- Apple App Store Connect
+- Build configuration and release management
+- Environment and configuration management
+
+### 🔗 Third-Party Integrations
+
+- Google Maps
+- Payment gateway integrations
+- Push notifications
+- Video calling SDKs
+- AdMob
+- Deep links and external service integrations
 
 ---
 
-## Technical Expertise
+## 💡 Engineering Strengths
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-### Mobile Application Development
+**🏗️ Scalable Architecture**
 
-- Flutter and Dart
-- Android and iOS application development
-- Responsive and adaptive UI design
-- Deep linking and universal links
-- Push notifications
-- Google Maps integration
-- Video calling SDK integration
-- AdMob integration
-- Payment gateway integration
-- App Store and Google Play Store deployment
+Maintainable, modular, and testable application structures.
 
 </td>
     <td width="50%" valign="top">
 
-### Architecture and State Management
+**⚡ Performance Optimization**
 
-- Clean Architecture
-- MVVM and MVC
-- Feature-based project structure
-- Repository pattern
-- BLoC and Cubit
-- Riverpod
-- GetX
-- Provider
-- SOLID principles
+Efficient rendering, profiling, and resource management.
 
 </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
 
-### Modern Flutter Development
+**🔌 Backend Integration**
 
-- Flutter performance optimization
-- Flutter DevTools
-- Widget lifecycle management
-- Isolates and background processing
-- Streams and asynchronous programming
-- Offline-first application development
+Reliable API communication, authentication, and data handling.
 
 </td>
     <td width="50%" valign="top">
 
-### API and Backend Integration
+**🎨 UI Engineering**
 
-- RESTful API integration
-- Dio and HTTP clients
-- WebSockets and real-time communication
-- Firebase Authentication
-- Cloud Firestore
-- Firebase Cloud Messaging
-- Push Notifications
-- Firebase Crashlytics
-- Firebase Analytics
+Reusable components and responsive mobile interfaces.
 
 </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
 
-### Local Database and Storage
+**🤖 AI-Assisted Engineering**
 
-- SQFLite
-- Hive
-- Isar
-- Offline data synchronization
-- Local caching strategies
+Agentic coding workflows with human review and validation.
 
 </td>
     <td width="50%" valign="top">
 
-### Testing and Quality Assurance
+**🧪 Quality & Reliability**
 
-- Unit testing
-- Widget testing
-- Code quality analysis
-- Crash monitoring and issue tracking
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### DevOps and Release Management
-
-- Git and GitHub
-- GitHub Actions
-- CI/CD pipelines
-- Google Play Console
-- App Store Connect
-
-</td>
-    <td width="50%" valign="top">
-
-### Collaboration and Leadership
-
-- Agile and Scrum methodologies
-- Jira and task management
-- Code review and mentoring
-- Team collaboration
-- Problem solving
-- Technical leadership
+Testing, debugging, crash analysis, and maintainable code.
 
 </td>
   </tr>
@@ -180,133 +209,48 @@ I am committed to continuous learning, writing maintainable code, improving appl
 
 ---
 
-## Languages & Tools
-
-<table align="center">
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=dart,kotlin,swift" alt="Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Frameworks</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=flutter" alt="Frameworks" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Backend & Cloud</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=firebase,nodejs,dotnet" alt="Backend and Cloud Technologies" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Databases</strong></td>
-    <td>
-      <strong>SQFLite · Hive · Isar · Firestore · SharedPreferences · Secure Storage</strong>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>State Management</strong></td>
-    <td>
-      <strong>BLoC · Cubit · Riverpod · GetX · Provider</strong>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Development Tools</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=androidstudio,vscode,eclipse,git,github,postman" alt="Development Tools" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>DevOps & CI/CD</strong></td>
-    <td>
-      <strong>GitHub Actions · Fastlane · Firebase App Distribution · Play Console · App Store Connect</strong>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Testing & Quality</strong></td>
-    <td>
-      <strong>Unit Testing · Widget Testing · Integration Testing · Flutter DevTools · Firebase Crashlytics</strong>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Project Management</strong></td>
-    <td>
-      <strong>Agile · Scrum · Jira</strong>
-    </td>
-  </tr>
-</table>
-
----
-
-## Core Strengths
-
-<table align="center">
-  <tr>
-    <td>📱 Cross-Platform Mobile Development</td>
-    <td>🏛️ Clean and Scalable Architecture</td>
-  </tr>
-  <tr>
-    <td>⚡ Performance Optimization</td>
-    <td>🧪 Testing and Code Quality</td>
-  </tr>
-  <tr>
-    <td>🔌 API and Firebase Integration</td>
-    <td>🔐 Secure Authentication and Data Handling</td>
-  </tr>
-  <tr>
-    <td>🚀 CI/CD and Production Deployment</td>
-    <td>🎨 Responsive and Accessible UI</td>
-  </tr>
-  <tr>
-    <td>🤝 Agile Collaboration</td>
-    <td>👨‍💻 Technical Leadership and Mentoring</td>
-  </tr>
-</table>
-
----
-
-## GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=fazlerabbishuvobd&theme=tokyonight&hide_border=true"
-    height="160"
-    alt="GitHub contribution streak"
-  />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=fazlerabbishuvobd&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+
+<img height="165" src="https://streak-stats.demolab.com?user=fazlerabbishuvobd&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+<img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazlerabbishuvobd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
+
 </div>
 
-<p align="center">
-  <img
-    src="https://readme-stats-github.pages.dev/api?username=fazlerabbishuvobd&theme=dark"
-    height="160"
-    alt="GitHub statistics"
-  />
-  <img
-    src="https://readme-stats-github.pages.dev/api/top-langs?username=fazlerabbishuvobd&theme=dark"
-    height="160"
-    alt="Most used programming languages"
-  />
-</p>
+---
+
+## 🎯 Current Focus
+
+- Building scalable, production-ready Flutter applications
+- Improving architecture, performance, and maintainability
+- Integrating AI-assisted and agentic coding into development workflows
+- Strengthening automated testing and CI/CD practices
+- Exploring advanced Flutter capabilities and native platform integration
 
 ---
 
-## Current Focus
+## 🤝 Let's Connect
 
-- Building scalable and maintainable Flutter applications
-- Improving app performance and user experience
-- Implementing automated testing and CI/CD workflows
-- Exploring advanced Flutter, Dart, and backend technologies
-- Contributing to collaborative and open-source projects
+I'm interested in mobile engineering, modern Flutter development, AI-assisted software engineering, and building reliable digital products.
 
----
+<div align="center">
 
-<p align="center">
-  <strong>Thanks for visiting my profile!</strong>
-  <br />
-  Feel free to connect with me or explore my repositories.
-</p>
+<a href="https://bd.linkedin.com/in/fazlerabbishuvobd">
+  <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:02569B&height=110&section=footer" alt="Footer" width="100%" />
+<a href="https://github.com/fazlerabbishuvobd">
+  <img src="https://img.shields.io/badge/Explore%20My-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub" />
+</a>
+
+<br/><br/>
+
+**Thanks for visiting my profile!** ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:02569B&height=100&section=footer" width="100%" alt="Footer banner" />
+
+</div>
