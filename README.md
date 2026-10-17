@@ -1,22 +1,25 @@
 
 <div align="center">
 
-<img
+<!-- <img
   src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,45:123B66,100:0E75B6&height=165&section=header&text=FAZLE%20RABBI&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=MOBILE%20APP%20DEVELOPER&descSize=15&descAlignY=60&descColor=B9DDFB&animation=fadeIn"
   width="100%"
   alt="Fazle Rabbi | Flutter Engineer"
-/>
+/> -->
 
-<img src="https://komarev.com/ghpvc/?username=fazlerabbishuvobd&label=PROFILE%20VIEWS&color=0E75B6&style=flat" alt="Profile views" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:02569B,50:0B1220,100:13B9FD&height=230&section=header&text=Fazle%20Rabbi&fontSize=64&fontColor=FFFFFF&fontAlignY=40&desc=Mobile%20App%20Developer&descSize=18&descAlignY=62&descColor=BFE9FF&animation=fadeIn" width="100%" alt="Fazle Rabbi | Flutter Engineer" />
 
-# Hi, I'm Fazle Rabbi 👋
+<a href="https://github.com/fazlerabbishuvobd">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=13B9FD&center=true&vCenter=true&width=720&lines=3%2B+years+building+production+Flutter+apps;Clean+Architecture+%7C+BLoC+%7C+Riverpod+%7C+MVVM;Shipping+to+Google+Play+%26+the+App+Store;AI-assisted+engineering+with+human+review" alt="Typing animation" />
+</a>
 
-### Flutter Engineer | 3+ Years of Professional Experience
+<!-- <img src="https://komarev.com/ghpvc/?username=fazlerabbishuvobd&label=PROFILE%20VIEWS&color=0E75B6&style=flat" alt="Profile views" />
 
-Building scalable, maintainable, and high-performance mobile applications for Android and iOS.
+# Hi, I'm Fazle Rabbi 👋 -->
 
+### Mobile Application Developer | 3+ Years of Professional Experience
 <a href="https://bd.linkedin.com/in/fazlerabbishuvobd">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/fazlerabbishuvobd">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -31,20 +34,18 @@ Building scalable, maintainable, and high-performance mobile applications for An
 
 ## 👨‍💻 About Me
 
-I'm a **Flutter Engineer with 3+ years of professional experience** developing cross-platform mobile applications with a focus on scalable architecture, clean code, performance, and user experience.
-
-I specialize in building production-ready applications using Flutter and Dart, integrating backend services, implementing reliable state management, and designing maintainable application architectures.
+I'm a **Flutter Engineer with 3+ years of professional experience** developing cross-platform mobile applications with a focus on scalable architecture, clean code, performance, and user experience. I specialize in building production-ready applications using Flutter and Dart, integrating backend services, implementing reliable state management, and designing maintainable application architectures.
 
 I also leverage **AI-powered coding assistants and agentic development tools** to accelerate implementation, explore codebases, debug issues, refactor code, and streamline testing while maintaining engineering standards.
 
-- 📱 Developing cross-platform applications with Flutter and Dart
-- 🏗️ Designing scalable architectures using Clean Architecture and MVVM
-- 🔄 Managing application state with BLoC, Cubit, GetX, and Riverpod
-- 🔌 Integrating REST APIs, Firebase, and third-party services
-- 💾 Implementing local persistence, caching, and offline data workflows
-- 🤖 Using AI coding agents for implementation, debugging, and refactoring
-- 🧪 Improving application reliability through testing and performance profiling
-- 🚀 Preparing and managing production releases for Android and iOS
+- Developing cross-platform applications with Flutter and Dart
+- Designing scalable architectures using Clean Architecture and MVVM
+- Managing application state with BLoC, Cubit, GetX, and Riverpod
+- Integrating REST APIs, Firebase, and third-party services
+- Implementing local persistence, caching, and offline data workflows
+- Using AI coding agents for implementation, debugging, and refactoring
+- Improving application reliability through testing and performance profiling
+- Preparing and managing production releases for Android and iOS
 
 ---
 
@@ -152,62 +153,6 @@ Using AI-powered development tools to improve implementation speed, codebase und
 - AdMob
 - Deep links and external service integrations
 
----
-
-## 💡 Engineering Strengths
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-**🏗️ Scalable Architecture**
-
-Maintainable, modular, and testable application structures.
-
-</td>
-    <td width="50%" valign="top">
-
-**⚡ Performance Optimization**
-
-Efficient rendering, profiling, and resource management.
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-**🔌 Backend Integration**
-
-Reliable API communication, authentication, and data handling.
-
-</td>
-    <td width="50%" valign="top">
-
-**🎨 UI Engineering**
-
-Reusable components and responsive mobile interfaces.
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-**🤖 AI-Assisted Engineering**
-
-Agentic coding workflows with human review and validation.
-
-</td>
-    <td width="50%" valign="top">
-
-**🧪 Quality & Reliability**
-
-Testing, debugging, crash analysis, and maintainable code.
-
-</td>
-  </tr>
-</table>
-
----
 
 ## 📊 GitHub Statistics
 
@@ -217,7 +162,7 @@ Testing, debugging, crash analysis, and maintainable code.
 
 <img height="165" src="https://streak-stats.demolab.com?user=fazlerabbishuvobd&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
-<img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazlerabbishuvobd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazlerabbishuvobd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
 
 </div>
 
@@ -250,7 +195,6 @@ I'm interested in mobile engineering, modern Flutter development, AI-assisted so
 <br/><br/>
 
 **Thanks for visiting my profile!** ⭐
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:02569B&height=100&section=footer" width="100%" alt="Footer banner" />
 
 </div>
