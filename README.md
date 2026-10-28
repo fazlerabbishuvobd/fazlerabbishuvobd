@@ -1,16 +1,17 @@
 <div align="center">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQHXMBCCKSoTXw/profile-displaybackgroundimage-shrink_350_1400/B56aGCIgMCHQAU-/0/1793184629867?e=1795046400&v=beta&t=e0badv7mCQNe9yb9OubAIvJ6-z-W_77XaEZg5FMdZoY" alt="Experience" />
+  
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Fazle%20Rabbi&fontSize=56&fontColor=FFFFFF&fontAlignY=36&desc=Mobile%20App%20Developer%20%C2%B7%20Flutter%20Engineer&descSize=18&descAlignY=58&descColor=E6F6FF" width="100%" alt="Fazle Rabbi | Flutter Engineer" /> -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=200&section=header&text=Fazle%20Rabbi&fontSize=56&fontColor=FFFFFF&fontAlignY=36&desc=Mobile%20App%20Developer%20%C2%B7%20Flutter%20Engineer&descSize=18&descAlignY=58&descColor=E6F6FF" width="100%" alt="Fazle Rabbi | Flutter Engineer" />
-
-<a href="https://github.com/fazlerabbishuvobd">
+<!-- <a href="https://github.com/fazlerabbishuvobd">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=13B9FD&center=true&vCenter=true&width=720&lines=3%2B+years+building+production+Flutter+apps;Clean+Architecture+%7C+BLoC+%7C+Riverpod+%7C+MVVM;Shipping+to+Google+Play+%26+the+App+Store;AI-assisted+engineering+with+human+review" alt="Typing animation" />
 </a>
-<br/>
+<br/> -->
 
-<a href="https://bd.linkedin.com/in/fazlerabbishuvobd"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<!-- <a href="https://bd.linkedin.com/in/fazlerabbishuvobd"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/fazlerabbishuvobd"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 <img src="https://img.shields.io/badge/Experience-3%2B%20years-0D1117?style=flat-square" alt="Experience" />
-<img src="https://img.shields.io/badge/Platforms-Android%20%7C%20iOS-0D1117?style=flat-square" alt="Platforms" />
+<img src="https://img.shields.io/badge/Platforms-Android%20%7C%20iOS-0D1117?style=flat-square" alt="Platforms" /> -->
 <!-- <img src="https://komarev.com/ghpvc/?username=fazlerabbishuvobd&label=Profile%20Views&color=0D1117&style=flat-square" alt="Profile views" /> -->
 
 </div>
@@ -19,17 +20,26 @@
 
 ## About
 
-I'm a **Flutter Engineer with 3+ years of professional experience** building cross-platform mobile applications with a focus on scalable architecture, clean code, performance, and user experience.
+I’m a **Mobile Application Developer** at PlayOn24 with **03+ years of professional experience** and **18+ apps** delivered across Android and iOS. I specialize in building scalable, user-friendly applications across **HRM, Healthcare, Fintech, E-learning, ERP, and E-commerce**, with a strong interest in **AI-powered mobile solutions**.
 
-I build production-ready apps with Flutter and Dart, integrate backend services, implement reliable state management, and design maintainable architectures. I also use AI coding assistants and agentic tools to speed up implementation, explore codebases, debug, refactor, and test, always with human review and engineering standards intact.
+### Core Technical Expertise:
+- Languages & Frameworks: Flutter, Dart 
+- AI & Intelligent Applications: AI-powered mobile solutions, AI API integration
+- State Management: BLoC, Riverpod, Provider, GetX
+- Architecture & Design Patterns: Clean Architecture, Feature-First Architecture, Repository Pattern, MVVM
+- Databases & Local Storage: SQLite, Sqflite, Hive, Drift
+- API & SDK Integration: REST APIs, Google Maps, Calling SDKs, Payment Gateways & Others Third-Party SDKs
+- Firebase Services: Authentication, Cloud Messaging, Push Notification, Firestore and Analytics
+- Navigation & Routing: GoRouter, Deep Linking
+- Deployment & Distribution: Google Play Store, Apple App Store
+- Tools & Collaboration: Git, GitHub, Jira, Postman, Agile Methodologies, Code Reviews
+- Backend Fundamentals: Node.js, .NET
 
-<div align="center">
+Beyond coding, I contribute to feature planning, architecture, code reviews, and cross-functional collaboration. I’m passionate about clean code, performance optimization, and continuous learning.
 
-| Cross-Platform | Architecture | Integration | AI-Assisted |
-|:---:|:---:|:---:|:---:|
-| Android & iOS from one codebase | Clean, testable, maintainable | REST, Firebase, real-time | Faster delivery, reviewed output |
+**My Mission:** To build scalable, high-quality, AI-powered mobile applications that deliver seamless user experiences and meaningful digital solutions.
 
-</div>
+Let’s connect to discuss Flutter development, AI integration, mobile architecture, and innovative technology.
 
 <br/>
 
