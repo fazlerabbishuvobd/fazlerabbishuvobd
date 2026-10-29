@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D5616AQHXMBCCKSoTXw/profile-displaybackgroundimage-shrink_350_1400/B56aGCIgMCHQAU-/0/1793184629867?e=1795046400&v=beta&t=e0badv7mCQNe9yb9OubAIvJ6-z-W_77XaEZg5FMdZoY" alt="Experience" />
+<img src="https://media.licdn.com/dms/image/v2/D5616AQFW0Kc0YUBKaQ/profile-displaybackgroundimage-shrink_350_1400/B56aGCaBAjI8AU-/0/1793189220654?e=1795046400&v=beta&t=X-Kwy3YxHBzI8ignnRc4UQyUS5x7YZuDwkkjEHZQKxE" alt="Header Banner" />
   
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Fazle%20Rabbi&fontSize=56&fontColor=FFFFFF&fontAlignY=36&desc=Mobile%20App%20Developer%20%C2%B7%20Flutter%20Engineer&descSize=18&descAlignY=58&descColor=E6F6FF" width="100%" alt="Fazle Rabbi | Flutter Engineer" /> -->
 
